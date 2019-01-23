@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beautiful Train Schedule</string>
+    <string name="title_activity_home">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
